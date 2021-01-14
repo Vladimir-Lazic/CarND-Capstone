@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="tl_classifier" type="model.py" name="tl_classifier" output="screen" cwd="node"/>
+</launch>
